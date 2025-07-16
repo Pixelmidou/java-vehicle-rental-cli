@@ -1,7 +1,12 @@
 package Java_OOP;
 
 // Implementing "Contactable" interface
-// YOU CAN implement more than one interface
+/*
+    A subclass can have only one superclass
+    Meaning a child can have only one parent not more
+    Multi-inheritance like this "class Student extends Person,AcademicPerson" in java is forbidden
+    you can implement more than one interface which is useful in situations when inheritance-like behaviour is needed
+*/
 public class Student implements Contactable {
 
     // Attributes
