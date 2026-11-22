@@ -1,9 +1,9 @@
-package Java_Uni.Projet.main;
+package Projet_LocationVehicule.main;
 
-import model.Administrateur;
-import model.Client;
-import model.LocationException;
-import service.AgenceLocation;
+import Projet_LocationVehicule.model.Administrateur;
+import Projet_LocationVehicule.model.Client;
+import Projet_LocationVehicule.model.LocationException;
+import Projet_LocationVehicule.service.AgenceLocation;
 
 import java.util.Scanner;
 

@@ -1,10 +1,10 @@
-package Java_Uni.Projet.service;
+package Projet_LocationVehicule.service;
 
-import model.Client;
-import model.Location;
-import model.LocationException;
-import model.Vehicule;
-import utile.FichierUtil;
+import Projet_LocationVehicule.model.Client;
+import Projet_LocationVehicule.model.Location;
+import Projet_LocationVehicule.model.LocationException;
+import Projet_LocationVehicule.model.Vehicule;
+import Projet_LocationVehicule.utile.FichierUtil;
 
 import java.io.File;
 import java.time.LocalDate;

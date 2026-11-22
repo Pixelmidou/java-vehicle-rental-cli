@@ -1,7 +1,7 @@
-package Java_Uni.Projet.main;
+package Projet_LocationVehicule.main;
 
-import model.*;
-import service.AgenceLocation;
+import Projet_LocationVehicule.model.*;
+import Projet_LocationVehicule.service.AgenceLocation;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

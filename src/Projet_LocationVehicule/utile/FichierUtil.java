@@ -1,6 +1,6 @@
-package Java_Uni.Projet.utile;
+package Projet_LocationVehicule.utile;
 
-import model.*;
+import Projet_LocationVehicule.model.*;
 
 import java.io.*;
 import java.time.LocalDate;

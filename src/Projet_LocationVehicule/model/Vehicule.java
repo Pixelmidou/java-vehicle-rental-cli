@@ -1,4 +1,4 @@
-package Java_Uni.Projet.model;
+package Projet_LocationVehicule.model;
 
 public abstract class Vehicule {
     private final String reference;

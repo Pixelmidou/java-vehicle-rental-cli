@@ -1,4 +1,4 @@
-package Java_Uni.Projet.model;
+package Projet_LocationVehicule.model;
 
 public class LocationException extends Exception {
     public LocationException(String message) {

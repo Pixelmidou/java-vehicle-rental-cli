@@ -1,4 +1,4 @@
-package Java_Uni.Projet.model;
+package Projet_LocationVehicule.model;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
